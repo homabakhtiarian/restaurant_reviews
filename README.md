@@ -10,6 +10,5 @@ The dataset is .tsv(tab seperated values) file instead of .csv.
 the dataset contains only two columns. The first one containing all the reviews. We have in total 1000 reviews.
 We're going to train a machine learning model to actually understand text and predict if it is positive or negative.
 And then the second column shows if the review is positive or negative.
-So one means that it is positive meaning the customer liked it and zero means that the review is negative.
-And of course we have the real outcomes in order to train our machine learning model to understand if each of these text is positive or negative.
+So one means that it is positive meaning the customer liked it and zero means that the review is negative. And of course we have the real outcomes in order to train our machine learning model to understand if each of these text is positive or negative.
 
